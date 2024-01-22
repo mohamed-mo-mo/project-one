@@ -1,4 +1,4 @@
-ccccccccccc
+create page dashboard
 create page mooo
 create page dooo
 location2
