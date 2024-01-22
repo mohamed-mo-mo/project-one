@@ -1,7 +1,6 @@
 create page dashboard
 create page mooo
 create page dooo
-location2
 create page vidoo
 create page Home
 cteate page setting
