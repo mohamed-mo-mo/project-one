@@ -2,3 +2,4 @@ create page dooo
 create page vidoo
 create page Home
 cteate page setting
+create page login
