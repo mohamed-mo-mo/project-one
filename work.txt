@@ -1,10 +1,9 @@
-
-حححححححححححححححححححححححcreate page dashboard
->>>>>>> task1
-create page dooo
 create page vidoo
 create page Home
 cteate page setting
+<<<<<<< HEAD
 create page login
 create page login2
+=======
+>>>>>>> d11653773bc3551850effc25c96a7213961025cd
 
