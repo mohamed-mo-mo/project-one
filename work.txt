@@ -4,3 +4,4 @@ create page vidoo
 create page Home
 cteate page setting
 create page login
+create page login2
