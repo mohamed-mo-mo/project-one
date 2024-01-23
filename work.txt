@@ -1,10 +1,4 @@
-
-حححححححححححححححححححححححcreate page dashboard
->>>>>>> task1
-create page dooo
 create page vidoo
 create page Home
 cteate page setting
-create page login
-create page login2
-cccccccccccccccccccc
+
