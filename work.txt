@@ -1,4 +1,3 @@
-create page dashboard
 create page dooo
 create page vidoo
 create page Home
